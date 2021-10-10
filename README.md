@@ -1,9 +1,8 @@
 # PyTorch-Model-Study
-*Learning model from papers and Implementing model with PyTorch*
+*Learning model from papers and Implementing model with PyTorch*  
 7 steps to master implementing DL models
 
 ## VGG Net
--------------
 
 | Member | Status |
 | ------- | ----------- |
