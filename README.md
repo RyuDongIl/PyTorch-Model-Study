@@ -41,5 +41,7 @@ Choose one of the following options:
 | <img src="https://img.shields.io/badge/Study%20Status-Complete-orange.svg" alt="Study Status: Complete"> | The study is complete, no further dissemination planned. | 
 | <img src="https://img.shields.io/badge/Study%20Status-Suspended-red.svg" alt="Study Status: Suspended"> | The study has been suspended, and may or may not be continued at a later point in time. | 
 
-### About Penalty
-We must decide how to penalize about missing or not finishing study.
+### Penalty
+- Amount : Buying coffee in study
+- 스터디 준비를 해오지 않았을 경우 Penalty 부여
+- 스터디 준비 여부는 주관적인 판단으로 결정
